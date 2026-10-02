@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://lachharsar.mywire.org",
+      "permanent": true
+    }
+  ]
+}
